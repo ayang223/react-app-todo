@@ -1,0 +1,14 @@
+.todo-item {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 30px 20px 0;
+  width: 70%;
+  border-bottom: 1px solid #cecece;
+  font-weight: 100;
+}
+
+#placeholder-p {
+  margin-bottom: 0;
+  margin-left: 5px;
+}
